@@ -4,7 +4,7 @@
             dev
 ---
 server:
-    port:  8021
+    port:  7001
 spring:
     profiles: dev
     application:
