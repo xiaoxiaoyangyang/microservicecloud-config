@@ -8,7 +8,7 @@ server:
 spring:
     profiles: dev
     application:
-        name: microservicecloud-config-client-dev
+        name: microservicecloud-config-client-dev-tt
 eureka:
     client:
         service-url:
