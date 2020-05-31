@@ -14,7 +14,7 @@ eureka:
         service-url:
             defaultZone: http://localhost:7001/eureka/
 user:
-    name: xiaohua
+    name: xiaohuahua
 ---
 server:
     port: 7008
